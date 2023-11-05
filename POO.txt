@@ -1,0 +1,7 @@
+Por que aprender POO:
+    POO pode dividir tarefas em varios grupos, ou seja melhor para trabalho em grupo.
+    Possível re-usar código.
+    Mais organizado.
+    Melhor para médios e grandes projetos.
+
+Usar o MCV
